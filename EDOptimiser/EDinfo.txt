@@ -1,0 +1,63 @@
+﻿Some more answers for the ED teams
+
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+From: Carolyn Gullery <Carolyn.Gullery@cdhb.health.nz>
+Date: 30 July 2016 at 2:17:26 PM NZST
+To: Kenny Daly <Kenny.Daly@cdhb.health.nz>
+Cc: Stella Ward <Stella.Ward@cdhb.health.nz>, Greg Hamilton <Greg.Hamilton@cdhb.health.nz>
+Subject: Re: Questions from teams at Gov Hack - can we answer them today?
+
+Almost all practices are taking patients ( latest survey was 96 percent so effectively all) no online form currently available for enrolment . Most people. not admitted could have been treated elsewhere with the exception of a few procedure related issues .
+
+Carolyn 
+
+Sent from my iPhone
+
+On 30/07/2016, at 12:16 PM, Kenny Daly <Kenny.Daly@cdhb.health.nz> wrote:
+
+The presenting symptoms are the diagnosis.
+
+Am looking up avg ed attend cost
+
+I dont think you can assume if not admitted could have gone somewhere else
+
+I cant answer the gp questions, Greg might be able to
+
+Deprivation definitions should be on stats nz website
+
+Triage is a measure of how quickly the patient needs to be seen. 1 is 0 minutes, 2 is 10 minutes and so on. I dont have an exact list of how you would slot into each category in terms if presenting symptons.
+
+I dont have mikes email on me I am out at the moment
+
+
+
+Sent from Samsung Mobile
+
+
+-------- Original message --------
+From: Stella Ward 
+Date:30/07/2016 11:52 AM (GMT+12:00) 
+To: Carolyn Gullery ,Greg Hamilton ,Kenny Daly 
+Subject: Questions from teams at Gov Hack - can we answer them today? 
+
+Is there an On line form to register for a GP
+
+Numbers open at various GP practices - can we get list of practices that are taking enrolment
+
+Ability to receive ED wait time dashboard api
+
+List of presenting symptoms for top 20 diagnosis
+
+Cost of ED attendance
+
+Is it a safe assumption of not admitted could have gone somewhere else
+
+triage category definition & deprivation code definition
+
+
+
+Sent from my iPhone
